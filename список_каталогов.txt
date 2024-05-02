@@ -1,0 +1,4 @@
+/home/viktor/my_projects_qt_2/Avtokopirovaniye_GIT_TSIKL_and_timer_GUI
+/home/viktor/my_projects_qt_2/Avtokopirovaniye_GIT_TSIKL
+/home/viktor/my_projects_qt_2/risunki_2
+/home/viktor/my_projects_qt_2/Avtokopirovaniye_GIT_TSIKL_and_timer
